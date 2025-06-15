@@ -4,3 +4,5 @@ EDA
 
 Models
 - Arima
+
+- Try to add FB Prophet
